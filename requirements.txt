@@ -4,3 +4,6 @@ numpy
 pillow
 torch==2.6.0
 torchvision==0.21.0
+mediapipe
+pandas
+plotly
